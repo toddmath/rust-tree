@@ -1,14 +1,14 @@
 [package]
-name = "TODO_CRATE_NAME"
+name = "rust-tree"
 version = "0.0.1"
-authors = ["Tamme Schichler <tamme@schichler.dev>"]
-edition = "2018"
-description = "TODO_DESCRIPTION"
+authors = ["Todd Matheson <tmatheson11186@gmail.com>"]
+edition = "2021"
+description = "Basic tree data structure. Not production quality!!"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/Tamschi/TODO_CRATE_NAME"
-homepage = "https://github.com/Tamschi/TODO_CRATE_NAME/tree/v0.0.1"
-documentation = "https://docs.rs/TODO_CRATE_NAME/0.0.1"
-keywords = [] #TODO
+repository = "https://github.com/toddmath/rust-tree"
+homepage = "https://github.com/toddmath/rust-tree/tree/v0.0.1"
+documentation = "https://docs.rs/rust-tree/0.0.1"
+keywords = ["tree", "data structure"] #TODO
 categories = [] #TODO
 readme = "README.md"
 include = [
@@ -26,8 +26,8 @@ resolver = "2"
 publish = false
 
 [badges]
-is-it-maintained-issue-resolution = { repository = "Tamschi/TODO_CRATE_NAME" }
-is-it-maintained-open-issues = { repository = "Tamschi/TODO_CRATE_NAME" }
+is-it-maintained-issue-resolution = { repository = "toddmath/rust-tree" }
+is-it-maintained-open-issues = { repository = "toddmath/rust-tree" }
 maintenance = { status = "experimental" } # This may differ between branches.
 
 [dev-dependencies]
